@@ -1,11 +1,11 @@
 # Repository Notice
 
-This repository is a public showcase for Basya Entertainment.
+This repository is an official public showcase and link hub for Basya Entertainment.
 
-It intentionally does not include the private source code of the Basya Entertainment website or its projects.
+It intentionally does not include the private source code for the Basya Entertainment website or its projects. Files, screenshots, descriptions, downloads, and links may be included for discovery or reference purposes only.
 
-Unless explicitly stated otherwise, publication of links, descriptions, screenshots, binaries, or other project materials here does not grant permission to copy, repackage, redistribute, or represent Basya Entertainment projects as your own.
+Unless a specific file or project includes an explicit license stating otherwise, its presence in this repository does not grant permission to copy, modify, repackage, redistribute, sell, or present Basya Entertainment material as your own.
 
-For the official project collection, visit:
+Third-party names, trademarks, and services referenced by Basya Entertainment remain the property of their respective owners.
 
-https://www.basya.org/
+For the current project collection and official destinations, visit [basya.org](https://www.basya.org/) or review [LINKS.md](LINKS.md).

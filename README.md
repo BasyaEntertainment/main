@@ -2,66 +2,67 @@
 
 <p align="center">
   <a href="https://www.basya.org/">
-    <img src="https://www.basya.org/assets/basya-site-icon.png" alt="Basya Entertainment" width="110">
+    <img src="https://www.basya.org/assets/basya-site-icon.png" alt="Basya Entertainment cat logo" width="110">
   </a>
 </p>
 
 <p align="center">
-  <strong>Games, tools, software, experiments, lore, and other things that seemed interesting enough to make.</strong>
+  <strong>Games, tools, software, stories, experiments, and curious things worth making.</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.basya.org/"><strong>Visit Basya Entertainment →</strong></a>
+  <a href="https://www.basya.org/"><strong>Explore Basya Entertainment</strong></a>
+  &nbsp;&middot;&nbsp;
+  <a href="ABOUT.md">About</a>
+  &nbsp;&middot;&nbsp;
+  <a href="LINKS.md">Official links</a>
 </p>
 
 ---
 
 ## What is Basya Entertainment?
 
-**Basya Entertainment** is a personal collection of projects gathered in one place.
+**Basya Entertainment** is an independent collection of projects gathered in one place. It includes browser games, utilities, experimental software, operating-system work, interactive web projects, creative writing, connected lore, and assorted oddities.
 
-The site includes browser games, utilities, experimental software, operating-system work, web projects, creative projects, lore, and assorted oddities.
-
-Rather than acting like a traditional portfolio, the site is meant to be explored.
-
-## Start here
-
-- 🌐 **Main site:** https://www.basya.org/
+It is not arranged like a conventional portfolio. The site is designed to be explored, with finished releases living beside evolving experiments and unexpected side projects.
 
 ## Featured areas
 
 ### BasyaOS
-A Linux-based operating-system project with its own releases, experiments, compatibility testing, and ongoing development.
 
-### Browser games & experiments
-A collection of games, interactive projects, and things that are difficult to put into a normal category.
+A Linux-based operating-system project with its own interface, applications, compatibility work, and downloadable releases.
 
-### Tools & utilities
-Small software projects, file tools, experiments, and other utilities.
+### Games and interactive experiments
+
+Browser games, downloadable games, simulations, and interactive projects ranging from familiar genres to deliberately unusual ideas.
+
+### Tools and utilities
+
+Practical software, file tools, creative utilities, and small experiments made to solve problems or explore new concepts.
 
 ### The Archive Cycle
-A 4 book series 
+
+An original four-book series and part of Basya Entertainment's growing collection of stories and fictional worlds.
 
 ## Why is this repository mostly empty?
 
-This is a **public showcase repository**, not the source repository.
+This is a **public showcase repository**, not the source repository. The source code for the Basya Entertainment website and its projects is intentionally kept private.
 
-The source code for Basya Entertainment projects is intentionally kept private. This repository exists so people can:
+This repository exists to:
 
-- discover the site from GitHub;
-- see what Basya Entertainment is;
-- find official links;
-- follow the public project presence.
+- introduce Basya Entertainment on GitHub;
+- provide a reliable path to the official website;
+- summarize the kinds of projects in the collection;
+- keep public links and notices together.
 
-If you found this repository while looking for a project, the website is the best place to start:
+## Start exploring
 
-### **https://www.basya.org/**
+The official website is the best place to find current projects, releases, and downloads:
 
-## Links
+### [Visit basya.org](https://www.basya.org/)
 
-| Place | Link |
-|---|---|
-| Main website | https://www.basya.org/ |
+For more context, read [ABOUT.md](ABOUT.md). For verified destinations, see [LINKS.md](LINKS.md). Usage information is available in [NOTICE.md](NOTICE.md).
+
 ---
 
 <p align="center">
