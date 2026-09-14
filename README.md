@@ -27,8 +27,6 @@ Rather than acting like a traditional portfolio, the site is meant to be explore
 ## Start here
 
 - 🌐 **Main site:** https://www.basya.org/
-- 🧭 **Project hub:** https://basya-apps.vercel.app/
-- 🌍 **Basyanet:** https://basyanet.vercel.app/
 
 ## Featured areas
 
@@ -41,8 +39,8 @@ A collection of games, interactive projects, and things that are difficult to pu
 ### Tools & utilities
 Small software projects, file tools, experiments, and other utilities.
 
-### Stickman
-An expanding lore project about a very simple traveler who keeps appearing in very different universes.
+### The Archive Cycle
+A 4 book series 
 
 ## Why is this repository mostly empty?
 
@@ -64,9 +62,6 @@ If you found this repository while looking for a project, the website is the bes
 | Place | Link |
 |---|---|
 | Main website | https://www.basya.org/ |
-| Project hub | https://basya-apps.vercel.app/ |
-| Basyanet | https://basyanet.vercel.app/ |
-
 ---
 
 <p align="center">
